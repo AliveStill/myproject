@@ -1,1 +1,1 @@
-### This is a test project containing some useless info
+### This is a test project containing some useless files
