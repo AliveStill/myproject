@@ -2,7 +2,7 @@
 #### this is an h4 header
 [github](www.github.com)
 
-[link](.\README.md)
+[link](README.md)
 
 ![image](.\wallhaven-45rk57.jpg)
 
