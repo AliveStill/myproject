@@ -1,2 +1,5 @@
-record.txt
-index.html
+# record.txt
+# index.html
+
+*.txt
+*.html
